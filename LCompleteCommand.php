@@ -5,7 +5,7 @@
  * 'commandMap' => array(
         ...
         'complete' => array(
-            'class' => 'ext.LCompleteCommand',
+            'class' => 'ext.complete.LCompleteCommand',
             //'bashFile' => '/etc/bash_completion.d/yii_applications' //Defaults to </etc/bash_completion.d/yii_applications>. May be changed if needed
         ),
         ...
